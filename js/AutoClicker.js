@@ -42,7 +42,6 @@ class AutoClicker {
   }
 
   /**
-   * 크롬 스토리지 변경할때 동작하는 함수
    * @param changes
    */
   storageOnChangedListener(changes) {
