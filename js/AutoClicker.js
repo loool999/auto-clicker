@@ -27,7 +27,6 @@ class AutoClicker {
   }
 
   /**
-   * 크롬 스토리지 fetch!
    * @param items
    */
   getUserOptions(items) {
